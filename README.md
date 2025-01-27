@@ -15,10 +15,8 @@ git clone git@github.com:emma-ctrl/ADHD-Brain-Activity-Patterns.git
 cd ADHD-Brain-Activity-Patterns
 ```
 
-Unzip Dataset
-```cd data
-unzip spotify_data.zip
-```
+Download Dataset
+https://www.kaggle.com/competitions/widsdatathon2025/data
 
 ## Data Dictionary
 
