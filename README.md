@@ -15,20 +15,9 @@ git clone git@github.com:emma-ctrl/ADHD-Brain-Activity-Patterns.git
 cd ADHD-Brain-Activity-Patterns
 ```
 
-## Repo structure
-
-```
-.
-├── data                    # Raw and preprocessed datasets
-│   ├── APQ                # APQ questionnaire data (43 rows, 2 columns)
-│   ├── Dictionary         # Data dictionary (37 rows, 6 columns)
-│   ├── EHQ               # EHQ assessment data (16 rows, 2 columns)
-│   ├── Instrument_Description  # Measurement descriptions (8 rows, 2 columns)
-│   └── SDQ               # SDQ questionnaire data (34 rows, 2 columns)
-├── notebooks              # Jupyter notebooks for EDA and modeling
-├── src                    # Scripts and source files
-├── test                   # Automated tests
-└── README.md             # Project documentation
+Unzip Dataset
+```cd data
+unzip spotify_data.zip
 ```
 
 ## Data Dictionary
@@ -46,8 +35,3 @@ The project includes multiple data files:
    ```bash
    pip install -r requirements.txt
    ```
-3. Navigate to the notebooks directory to explore the data analysis
-
-## Project Overview
-
-This project analyzes brain activity patterns in individuals with ADHD, incorporating multiple assessment tools and questionnaires to provide a comprehensive understanding of attention patterns and environmental factors affecting ADHD manifestation.
