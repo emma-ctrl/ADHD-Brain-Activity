@@ -11,7 +11,7 @@ conda activate adhd-brain
 
 Clone repo:
 ```bash
-git clone git@github.com:emma-ctrl/ADHD-Brain-Activity-Patterns.git
+git clone git@github.com:emma-ctrl/ADHD-Brain-Activity.git
 cd ADHD-Brain-Activity-Patterns
 ```
 
