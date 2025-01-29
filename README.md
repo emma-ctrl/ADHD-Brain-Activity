@@ -17,6 +17,7 @@ cd ADHD-Brain-Activity-Patterns
 
 Download Dataset
 https://www.kaggle.com/competitions/widsdatathon2025/data
+Add to your remote repo inside a folder called data (there is already a gitignore for this data folder)
 
 ## Data Dictionary
 
